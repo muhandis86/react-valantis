@@ -1,11 +1,11 @@
 # Valantis
 My test work for getting the position of React front-end developer
 
-[Try for demo](http://valantis.zaur-dev.ru/)
+[Try for demo](http://valantis.zaur-dev.ru/){:target="_blank"}
 
-[View test task](https://docs.google.com/document/d/18pKwazNch7J_dA8Y92AEDYgXi3_QePfy/edit?usp=drive_link&ouid=110804059676034088486&rtpof=true&sd=true)
+[View test task](https://docs.google.com/document/d/18pKwazNch7J_dA8Y92AEDYgXi3_QePfy/edit?usp=drive_link&ouid=110804059676034088486&rtpof=true&sd=true){:target="_blank"}
 
-[View API](https://docs.google.com/document/d/16tWJvIUqr2AF26dFxXE7Bf-N06WiQr7u/edit?usp=drive_link&ouid=110804059676034088486&rtpof=true&sd=true)
+[View API](https://docs.google.com/document/d/16tWJvIUqr2AF26dFxXE7Bf-N06WiQr7u/edit?usp=drive_link&ouid=110804059676034088486&rtpof=true&sd=true){:target="_blank"}
 
 ## Open project
 
