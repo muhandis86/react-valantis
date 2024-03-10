@@ -3,9 +3,9 @@ My test work for getting the position of React front-end developer
 
 [Try for demo](http://valantis.zaur-dev.ru/)
 
-[View test task](https://docs.google.com/document/d/16EvmUofUMZtj8nrfzLIkRb8NVV9tIHMr/edit?usp=drive_link&ouid=110804059676034088486&rtpof=true&sd=true)
+[View test task](https://drive.google.com/file/d/1-Co_2Z4NrvnS40iB6_U8VDqwb2VOQ372/view?usp=drive_link)
 
-[View API](https://docs.google.com/document/d/1qQ4wLrOclGxr7VeME89ThOhfbZshUf4S/edit?usp=drive_link&ouid=110804059676034088486&rtpof=true&sd=true)
+[View API](https://drive.google.com/file/d/1XHTdVmUMVQ7MT5oQ_mGY315MLXCV_PkL/view?usp=drive_link)
 
 ## Open project
 
